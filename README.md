@@ -1,6 +1,8 @@
 # Jetson GroundingDINO Service
 GroundingDINO for Jetson with Model Service API
 
+[![alt text](https://img.youtube.com/vi/_r80q5bV87Q/0.jpg)](https://www.youtube.com/watch?v=_r80q5bV87Q)
+
 ## Features
 * Docker Image for Jetson Platform
 * Model Service with GroundingDINO
